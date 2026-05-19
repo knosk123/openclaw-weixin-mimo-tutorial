@@ -1,0 +1,12 @@
+﻿# Ignore local/editor files
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+*.bak
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
